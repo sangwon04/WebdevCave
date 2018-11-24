@@ -13,5 +13,7 @@
     <None Include="index.html" />
     <None Include="pokemon.html" />
     <None Include="forms.html" />
+    <None Include="inputs.html" />
+    <None Include="formExercise.html" />
   </ItemGroup>
 </Project>

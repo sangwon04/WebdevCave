@@ -11,5 +11,7 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="index.html" />
+    <None Include="pokemon.html" />
+    <None Include="forms.html" />
   </ItemGroup>
 </Project>

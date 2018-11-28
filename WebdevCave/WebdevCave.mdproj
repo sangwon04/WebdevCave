@@ -15,5 +15,6 @@
     <None Include="forms.html" />
     <None Include="inputs.html" />
     <None Include="formExercise.html" />
+    <None Include="aboutMe.html" />
   </ItemGroup>
 </Project>

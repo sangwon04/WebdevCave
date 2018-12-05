@@ -19,5 +19,7 @@
     <None Include="app.css" />
     <None Include="toDoList.html" />
     <None Include="todos.css" />
+    <None Include="selectors.css" />
+    <None Include="selectorsExercise.html" />
   </ItemGroup>
 </Project>

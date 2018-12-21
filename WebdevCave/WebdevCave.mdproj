@@ -21,5 +21,10 @@
     <None Include="todos.css" />
     <None Include="selectors.css" />
     <None Include="selectorsExercise.html" />
+    <None Include="styles.css" />
+    <None Include="fonts.html" />
+    <None Include="boxmodel.html" />
+    <None Include="board.html" />
+    <None Include="board.css" />
   </ItemGroup>
 </Project>

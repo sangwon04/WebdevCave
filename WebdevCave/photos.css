@@ -1,0 +1,6 @@
+﻿img {
+    width: 30%;
+    height: 500px;
+    float: left;
+    object-fit: scale-down;
+}

@@ -26,5 +26,7 @@
     <None Include="boxmodel.html" />
     <None Include="board.html" />
     <None Include="board.css" />
+    <None Include="photogrid.html" />
+    <None Include="photos.css" />
   </ItemGroup>
 </Project>

@@ -2,5 +2,11 @@
     width: 30%;
     height: 500px;
     float: left;
-    object-fit: scale-down;
+    margin: 1.66%;
+}
+
+h1 {
+    font-family: rajdhani;
+    font-size: 50px;
+    margin-left: 50px;
 }

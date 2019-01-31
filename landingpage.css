@@ -1,5 +1,7 @@
 body {
     background: url("https://www.imgbase.info/images/safe-wallpapers/anime/anime_scenery/46551_anime_scenery_studio_ghibli_anime_landscapes.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 #content {

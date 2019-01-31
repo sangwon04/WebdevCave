@@ -2,13 +2,28 @@ body {
     background: url("https://www.imgbase.info/images/safe-wallpapers/anime/anime_scenery/46551_anime_scenery_studio_ghibli_anime_landscapes.jpg");
     background-size: cover;
     background-position: center;
+    font-family: 'KoHo', sans-serif;
+    color: white;
 }
 
 #content {
     text-align: center;
     padding-top: 25%;
+    text-shadow: 0px 4px 3px red,
+                 0px 8px 13px orange;
 }
 
-#content>h1 {
-    font-family: 'KoHo', sans-serif;
+h1 {
+    font-weight: bold;
+    font-size: 5em;
+}
+
+html {
+    height: 100%;
+}
+
+hr {
+    width: 500px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2)
 }

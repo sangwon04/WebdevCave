@@ -21,7 +21,7 @@ body {
 }
 
 .jumbotron {
-    padding-bottom: 1rem;
+    padding-bottom: 1em;
 }
 
 .card {
@@ -41,17 +41,25 @@ thead {
 }
 
 .card-title {
-    font-size: 2rem;
+    font-size: 2em;
     margin-bottom: 30px;
 }
 
 .card-title-logo {
-    font-size: 2rem;
+    font-size: 1em;
 }
 
 .description {
-    max-width: 26rem;
+    max-width: 26em;
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
+}
+
+.metric-container {
+    margin-bottom: 1.5em;
+}
+
+.metric-card {
+    height: 15em;
 }
